@@ -11,8 +11,8 @@ Tell me how to list tags:
 git tag
 
 Tell me how to delete tag locally and remotely:
-git push origin --delete v1.7  (remotly)
-git tag -d v1.7 (localy)
+git push origin --delete V1.7  (remotly)
+git tag -d V1.7 (localy)
 
 
 ![view image](./download.jpeg)
